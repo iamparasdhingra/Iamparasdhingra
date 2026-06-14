@@ -9,8 +9,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-parihar-b6a7683)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20Ana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-dhingra1567/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://github.com/iamparasdhingra/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ankita714)
 
 ---
@@ -29,14 +29,10 @@
 ---
 
 ## 📂 Projects & Repositories:
-- 🔐 **Bitcoin Illegal Usage Detection** – Data analysis of Bitcoin transactions to identify illegal activities.  
-- 🤖 **Deepfake Detection using Machine Learning** – Research-based project on detecting fake media.  
+- 🔐 **Aegis-Shroud Architecture** – Real-time file system monitoring and active defence with python.  
+- 🤖 **Shoplifting Detection using Machine Learning** – a project to detect shoplifting, best use for local shops.  
 
- ### Research Papers:
-- 📄 [Exploration of Bitcoin Illegal Usage Patterns](https://ieeexplore.ieee.org/document/10742821) – IEEE Xplore  
-- 📄 [Exploration & Pattern Analysis of Bitcoin Address Behaviour](https://www.taylorfrancis.com/chapters/edit/10.1201/97810035651-46/exploration-pattern-analysis-bitcoin-address-behaviour-ankita-parihar-amit-kumar-abhishek) – Taylor & Francis 
-
-👉 Check out my repositories here: [My GitHub Repos](https://github.com/2Ankita?tab=repositories)
+👉 Check out my repositories here: [My GitHub Repos](https://github.com/iamparasdhingra/Shoplifting-Detector)
 
 ---
 
