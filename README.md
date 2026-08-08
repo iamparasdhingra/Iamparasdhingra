@@ -29,14 +29,14 @@
 ---
 
 ## 📂 Projects & Repositories:
-- 🔐 **Aegis-Shroud Architecture** – Real-time file system monitoring and active defence with python.  
+- 🔐 **AirBudsWalkieTalkie** – A tool which is used to convert normal EarBuds into act like WalkieTalkie.  
 - 🤖 **Shoplifting Detection using Machine Learning** – a project to detect shoplifting, best use for local shops.  
 
-👉 Check out my repositories here: [My GitHub Repos](https://github.com/iamparasdhingra/Shoplifting-Detector)
+👉 Check out my repositories here: [My GitHub Repos](https://github.com/iamparasdhingra/)
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=20Akita&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  Bhu
-![](https://github-readme-streak-stats.herokuapp.com/?user=20Ankit&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Ankita&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iamparasdhingra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  Bhu
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamparasdhingra&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamparasdhingra&theme=dark&hide_border=false&layout=compact)
