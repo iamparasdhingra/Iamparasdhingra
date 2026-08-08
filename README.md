@@ -32,7 +32,7 @@
 - 🔐 **AirBudsWalkieTalkie** – A tool which is used to convert normal EarBuds into act like WalkieTalkie.  
 - 🤖 **Shoplifting Detection using Machine Learning** – a project to detect shoplifting, best use for local shops.  
 
-👉 Check out my repositories here: [My GitHub Repos](https://github.com/iamparasdhingra/)
+👉 Check out my repositories here: [My GitHub Repos](https://github.com/iamparasdhingra?tab=repositories)
 
 ---
 
